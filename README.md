@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0075-sort-colors) |
+| [0219-contains-duplicate-ii](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
