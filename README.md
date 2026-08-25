@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0075-sort-colors) |
+| [0876-middle-of-the-linked-list](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0219-contains-duplicate-ii) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
