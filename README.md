@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0075-sort-colors) |
 | [0876-middle-of-the-linked-list](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/vtu27517-create/APPLIED-PROGRAMMING-SKILLS/tree/master/0075-sort-colors) |
 ## Quicksort
 |  |
